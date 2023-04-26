@@ -195,6 +195,8 @@ body {
         align-items: center;
       }
       .main img {
+        margin-top: 2rem;
+        margin-left: 2.3rem;
         border-radius: 10px;
         width: 100%;
         height: auto;       
